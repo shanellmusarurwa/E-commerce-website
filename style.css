@@ -7,11 +7,15 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Barlow condensed", sans-serif;
 }
 
 header {
     background-color: #0dcaf0;
+}
+.hero {
+    background: url('images/hero-2.png') no-repeat center center/cover;
+    height: 60vh;
 }
 
 
